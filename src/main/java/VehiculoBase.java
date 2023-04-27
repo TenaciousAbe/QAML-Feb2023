@@ -1,4 +1,5 @@
 import Utilidades.Combustible;
+
 public class VehiculoBase {
     private Combustible Combustible;
     public String Modelo;
